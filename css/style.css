@@ -1,0 +1,32 @@
+.calc {
+    margin-top: 5em;
+}
+
+.btn {
+    width: 60px;
+    background-color: white;
+    font-weight: bold;
+    border-radius: 50%;
+}
+
+.btn-special {
+    width: 100%;
+    padding: 5px;
+    border: none;
+    font-weight: bold;
+}
+.del-btn {
+    width: 60px;
+    background-color: white;
+    font-weight: bold;
+    border: none;
+    border-radius: 50%;
+}
+
+.my-c {
+    width: 60px;
+    background-color: white;
+    font-weight: bold;
+    border: none;
+    border-radius: 50%;
+}
